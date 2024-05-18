@@ -2,10 +2,7 @@
 I am learner.
 <h1 align="center">Hi 👋, I'm BIPLAB GACHI</h1>
 <h3 align="center"> i am learner</h3>
-<img align="rigth "  src="https://github.com/biplab005/Biplab-Gachi/assets/160341007/115d81fe-f0c8-4f7d-8031-102c2f09d0b1
-" alt="coding" width="200">
-<img align="rigth "  src="![image](https://github.com/biplab005/Biplab-Gachi/assets/160341007/4b47c0dd-485e-433d-aace-159e4db40856)
-" alt="coding" width="200">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplab005&label=Profile%20views&color=0e75b6&style=flat" alt="biplab005" /> </p>
 
